@@ -1,4 +1,4 @@
-# ERC-721P
+# EIP5496
 Extension to the ERC721 standard, that introduces multi-privilege NFT. The NFT can be separated into multiple privileges from one to any for renting or sale without transferring ownership.
 
 ### Tools
